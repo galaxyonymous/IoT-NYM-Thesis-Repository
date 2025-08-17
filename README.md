@@ -169,7 +169,7 @@ If you use this code in your research, please cite:
   title={IoT Devices Fingerprinting based on Metadata Classification, Threat Models and Countermeasures},
   author={Muhammad Siddique},
   year={2025},
-  school={ULB Brussels}
+  school={Université Libre de Bruxelles}
 }
 ```
 
