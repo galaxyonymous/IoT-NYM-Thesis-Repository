@@ -1,0 +1,4 @@
+Method,Clusters,Noise %,Silhouette,Davies-Bouldin,Calinski-Harabasz
+HDBSCAN,10,25.6%,0.906,0.199,28447.9
+GMM-BIC,7,N/A,0.394,1.632,420.5
+Spectral,8,N/A,-0.136,1.583,74.7
