@@ -169,7 +169,7 @@ If you use this code in your research, please cite:
   title={IoT Devices Fingerprinting based on Metadata Classification, Threat Models and Countermeasures},
   author={Muhammad Siddique},
   year={2025},
-  school={Université Libre de Bruxelles}
+  University={Université Libre de Bruxelles}
 }
 ```
 
@@ -182,7 +182,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Author**: Muhammad Siddique
 - **Email**: muhammad.siddique@ulb.be
 - **GitHub**: [@galaxyonymous](https://github.com/galaxyonymous)
-- **University**: ULB Brussels
+- **University**: Université Libre de Bruxelles
 
 ---
 
